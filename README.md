@@ -1,5 +1,4 @@
-# 
-# Baidu_Lane_Segmentation
+# autonomous-driving-video-segmention
 9th place solution in datafoundation-baidu-2018-autonomous-driving-video-segmention Competition
 
 ### 赛题介绍
